@@ -74,7 +74,7 @@ body{
     border-radius: 4px;
     margin-bottom: 16px;
     border: 1px solid #1fc593;
-    font-family: 'calibri';
+    font-family: 'cambria';
     font-size: 18px;
     color: white;
 }
@@ -100,6 +100,4 @@ body{
     color: white;
     margin: 16px 0;
     font-size: 16px;
-
-
 }
