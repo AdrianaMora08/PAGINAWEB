@@ -59,7 +59,7 @@ body{
     margin: auto;
     margin-top: 100px;
     border-radius: 4px;
-    font-family: 'calibri';
+    font-family: 'cambria';
     color: white;
     box-shadow: 7px 13px 37px #000;
 }
